@@ -17,3 +17,7 @@ though pip
 spatialreference.org
 
 # rasterstats
+
+# Open streetmap
+osmnx
+https://github.com/gboeing/osmnx
