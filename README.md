@@ -21,3 +21,6 @@ spatialreference.org
 # Open streetmap
 osmnx
 https://github.com/gboeing/osmnx
+
+# pySAL
+http://pysal.readthedocs.io/en/latest/
