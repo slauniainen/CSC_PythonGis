@@ -33,3 +33,8 @@ https://research.csc.fi/-/geopython
 virtual rasters
 Shared data at taito.
 MML dem, FMI 10x10km grid, mNFI
+
+check: 
+taito user guide
+gopython documentation
+geocomputing course materials
