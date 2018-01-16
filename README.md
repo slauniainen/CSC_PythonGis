@@ -24,3 +24,12 @@ https://github.com/gboeing/osmnx
 
 # pySAL
 http://pysal.readthedocs.io/en/latest/
+
+# GIS at CSC
+
+https://github.com/csc-training/geocomputing
+https://research.csc.fi/-/geopython
+
+virtual rasters
+Shared data at taito.
+MML dem, FMI 10x10km grid, mNFI
