@@ -38,3 +38,9 @@ check:
 taito user guide
 gopython documentation
 geocomputing course materials
+
+# Raster analysis using rasterio
+
+https://mapbox.github.io/rasterio/
+
+see also gdal
