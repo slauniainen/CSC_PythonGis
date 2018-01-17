@@ -43,4 +43,11 @@ geocomputing course materials
 
 https://mapbox.github.io/rasterio/
 
-see also gdal
+see also gdal tools directly
+
+# Interactive plots
+
+Bokeh: https://bokeh.pydata.org/en/latest/docs/user_guide/quickstart.html
+
+Dash: https://plot.ly/products/dash/
+
